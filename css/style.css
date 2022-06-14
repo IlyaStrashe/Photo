@@ -100,7 +100,7 @@ body.locked {
 }
 
 .header {
-  background-image: url(../img/header-bg.png);
+  background-image: url(img/header-bg.png);
   background-repeat: no-repeat;
   width: 100%;
   height: 100%;
@@ -110,7 +110,7 @@ body.locked {
 .header::before {
   content: " ";
   position: absolute;
-  background-image: url("../img/frameheader.svg");
+  background-image: url("img/frameheader.svg");
   background-repeat: no-repeat;
   right: 45px;
   bottom: 0;
